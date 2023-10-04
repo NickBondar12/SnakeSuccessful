@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+d:\start_api\snake\stdafx.cpp(171): warning C4552: "<": результат выражения не используется
+d:\start_api\snake\stdafx.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+d:\start_api\snake\stdafx.cpp(112): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+d:\start_api\snake\stdafx.cpp(143): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+d:\start_api\snake\stdafx.cpp(176): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+d:\start_api\snake\stdafx.cpp(230): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Apple.cpp
+  Sceleton.cpp
+  Snake.cpp
+  Создание кода...
+  Sceleton.vcxproj -> D:\Start_Api\Snake\Debug\Sceleton.exe
